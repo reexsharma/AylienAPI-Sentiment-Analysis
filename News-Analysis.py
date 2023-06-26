@@ -1,1 +1,0 @@
-# filtered_sums = remove_stop_words(processed_summaries, 'stop_words_english.txt')
